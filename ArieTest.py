@@ -1,1 +1,8 @@
-print("Hello, world! My name is Arie")
+#!/usr/bin/python3
+
+
+def main(msg):
+    print(msg)
+
+
+main("Hello People")
