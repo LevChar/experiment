@@ -2,6 +2,7 @@
 
 
 def main(msg):
+    //print a message
     //a different commit
     print(msg)
 
